@@ -13,13 +13,20 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+An innovative and ambitious programmer with years of experience in developing web applications 🌐, mobile applications 📱, and integration systems 🔗. My goal is to leverage my skills and experience to create high-quality software that solves real business problems 💼 and become part of a progressive company where I can influence the development of modern technologies 🚀.
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+Key Skills:
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+Programming Languages: JavaScript, TypeScript 💻
+Frameworks and Libraries: React ⚛️, Node.js 🌲
+Databases: MySQL 🐬, PostgreSQL 🐘, MongoDB 🍃, Redis 🔄
+Other Technologies: APIs 🌐
+Work Experience
+
+Senior Software Developer
+Led a team of 5 developers, ensuring timely project completion 👥🕒.
+Developed and implemented a content management system, enabling clients to independently manage their websites, increasing their efficiency by 40% ⚙️📈.
+Worked on integrating third-party services such as payments and social networks, enhancing the user experience 💳🤝.
 
  </div>
  
