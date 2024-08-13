@@ -1,7 +1,7 @@
-<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW95OHMyZWVpdGJ0MXk1MXgwa2pzMGUxaDZxb2N4ZGZtN2Njazh3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" />
+<img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW95OHMyZWVpdGJ0MXk1MXgwa2pzMGUxaDZxb2N4ZGZtN2Njazh3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vitaii+Rudikov!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
