@@ -40,12 +40,18 @@ Worked on integrating third-party services such as payments and social networks,
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
 <br/>
+
+
+<div align="center">
+    <h2>💻 My projects:</h2>
+</div>
 
 
 <hr/>
