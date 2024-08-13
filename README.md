@@ -50,4 +50,10 @@ Worked on integrating third-party services such as payments and social networks,
 
 <hr/>
 
+<div align="center"> 
+  <a href="https://www.qrypt.com/" target="_blank">
+    Qrypt
+  </a>
+</div>
+
 <br/>
