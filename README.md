@@ -58,9 +58,13 @@ Worked on integrating third-party services such as payments and social networks,
 
 
 <div align="center"> 
-  <a href="https://www.qrypt.com/" target="_blank">
-    Qrypt
-  </a>
+ <a href="https://www.qrypt.com/" target="_blank">1️⃣ Qrypt</a><br>
+  <a href="https://www.qrypt.com/" target="_blank">2️⃣ Qrypt</a><br>
+  <a href="https://www.qrypt.com/" target="_blank">3️⃣ Qrypt</a><br>
+  <a href="https://www.qrypt.com/" target="_blank">4️⃣ Qrypt</a><br>
+  <a href="https://www.qrypt.com/" target="_blank">5️⃣ Qrypt</a><br>
+  <a href="https://www.qrypt.com/" target="_blank">6️⃣ Qrypt</a><br>
+  <a href="https://www.qrypt.com/" target="_blank">7️⃣ Qrypt</a><br>
 </div>
 
 <br/>
