@@ -57,14 +57,38 @@ Worked on integrating third-party services such as payments and social networks,
 </div>
 
 
-<div align="center"> 
- <a href="https://www.qrypt.com/" target="_blank">1️⃣ Qrypt</a><br>
-  <a href="https://www.qrypt.com/" target="_blank">2️⃣ Qrypt</a><br>
-  <a href="https://www.qrypt.com/" target="_blank">3️⃣ Qrypt</a><br>
-  <a href="https://www.qrypt.com/" target="_blank">4️⃣ Qrypt</a><br>
-  <a href="https://www.qrypt.com/" target="_blank">5️⃣ Qrypt</a><br>
-  <a href="https://www.qrypt.com/" target="_blank">6️⃣ Qrypt</a><br>
-  <a href="https://www.qrypt.com/" target="_blank">7️⃣ Qrypt</a><br>
+<div align="center">
+  <a href="https://www.qrypt.com/" target="_blank" style="font-size: 24px; color: #00CC99; text-decoration: none;">
+    1️⃣ Qrypt
+  </a><br>
+  <a href="https://www.qrypt.com/" target="_blank" style="font-size: 24px; color: #00CC99; text-decoration: none;">
+    2️⃣ Qrypt
+  </a><br>
+  <a href="https://www.qrypt.com/" target="_blank" style="font-size: 24px; color: #00CC99; text-decoration: none;">
+    3️⃣ Qrypt
+  </a><br>
+  <a href="https://www.qrypt.com/" target="_blank" style="font-size: 24px; color: #00CC99; text-decoration: none;">
+    4️⃣ Qrypt
+  </a><br>
+  <a href="https://www.qrypt.com/" target="_blank" style="font-size: 24px; color: #00CC99; text-decoration: none;">
+    5️⃣ Qrypt
+  </a><br>
+  <a href="https://www.qrypt.com/" target="_blank" style="font-size: 24px; color: #00CC99; text-decoration: none;">
+    6️⃣ Qrypt
+  </a><br>
+  <a href="https://www.qrypt.com/" target="_blank" style="font-size: 24px; color: #00CC99; text-decoration: none;">
+    7️⃣ Qrypt
+  </a><br>
+  <a href="https://www.qrypt.com/" target="_blank" style="font-size: 24px; color: #00CC99; text-decoration: none;">
+    8️⃣ Qrypt
+  </a><br>
+  <a href="https://www.qrypt.com/" target="_blank" style="font-size: 24px; color: #00CC99; text-decoration: none;">
+    9️⃣ Qrypt
+  </a><br>
+  <a href="https://www.qrypt.com/" target="_blank" style="font-size: 24px; color: #00CC99; text-decoration: none;">
+    🔟 Qrypt
+  </a>
 </div>
+
 
 <br/>
