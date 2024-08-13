@@ -49,12 +49,13 @@ Worked on integrating third-party services such as payments and social networks,
 <br/>
 
 
+
+<hr/>
+
 <div align="center">
     <h2>💻 My projects:</h2>
 </div>
 
-
-<hr/>
 
 <div align="center"> 
   <a href="https://www.qrypt.com/" target="_blank">
