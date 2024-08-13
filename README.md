@@ -57,27 +57,39 @@ Worked on integrating third-party services such as payments and social networks,
 </div>
 
 
-## 💻 Мої Проекти
+<div align="center">
+  <a href="https://www.qrypt.com/" target="_blank" style="font-size: 24px; color: #00CC99; text-decoration: none;">
+    1️⃣ Qrypt
+  </a><br>
+  <a href="https://www.qrypt.com/" target="_blank" style="font-size: 24px; color: #00CC99; text-decoration: none;">
+    2️⃣ Qrypt
+  </a><br>
+  <a href="https://www.qrypt.com/" target="_blank" style="font-size: 24px; color: #00CC99; text-decoration: none;">
+    3️⃣ Qrypt
+  </a><br>
+  <a href="https://www.qrypt.com/" target="_blank" style="font-size: 24px; color: #00CC99; text-decoration: none;">
+    4️⃣ Qrypt
+  </a><br>
+  <a href="https://www.qrypt.com/" target="_blank" style="font-size: 24px; color: #00CC99; text-decoration: none;">
+    5️⃣ Qrypt
+  </a><br>
+  <a href="https://www.qrypt.com/" target="_blank" style="font-size: 24px; color: #00CC99; text-decoration: none;">
+    6️⃣ Qrypt
+  </a><br>
+  <a href="https://www.qrypt.com/" target="_blank" style="font-size: 24px; color: #00CC99; text-decoration: none;">
+    7️⃣ Qrypt
+  </a><br>
+  <a href="https://www.qrypt.com/" target="_blank" style="font-size: 24px; color: #00CC99; text-decoration: none;">
+    8️⃣ Qrypt
+  </a><br>
+  <a href="https://www.qrypt.com/" target="_blank" style="font-size: 24px; color: #00CC99; text-decoration: none;">
+    9️⃣ Qrypt
+  </a><br>
+  <a href="https://www.qrypt.com/" target="_blank" style="font-size: 24px; color: #00CC99; text-decoration: none;">
+    🔟 Qrypt
+  </a>
+</div>
 
-[1️⃣ Qrypt](https://www.qrypt.com/)
-
-[2️⃣ Qrypt](https://www.qrypt.com/)
-
-[3️⃣ Qrypt](https://www.qrypt.com/)
-
-[4️⃣ Qrypt](https://www.qrypt.com/)
-
-[5️⃣ Qrypt](https://www.qrypt.com/)
-
-[6️⃣ Qrypt](https://www.qrypt.com/)
-
-[7️⃣ Qrypt](https://www.qrypt.com/)
-
-[8️⃣ Qrypt](https://www.qrypt.com/)
-
-[9️⃣ Qrypt](https://www.qrypt.com/)
-
-[🔟 Qrypt](https://www.qrypt.com/)
 
 
 
